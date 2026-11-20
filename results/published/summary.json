@@ -1,0 +1,16 @@
+{
+  "float32_condition_1e4_median_reference_gap": {
+    "normal_equations": 1.0398485859068203,
+    "qr": 2.7481253711983138e-05,
+    "svd": 3.844854111998049e-05
+  },
+  "float64_condition_1e8_median_reference_gap": {
+    "normal_equations": 0.043523332261458,
+    "qr": 1.5236783921354155e-09,
+    "svd": 1.906550418578725e-09
+  },
+  "rows": 270,
+  "cases": 90,
+  "rejected_rows": 12,
+  "truncated_rows": 30
+}

@@ -1,0 +1,452 @@
+[
+  {
+    "case": "full_rank-s811-k1e+00-n0e+00-float32",
+    "path": "inputs/full_rank-s811-k1e+00-n0e+00-float32.npz",
+    "sha256": "9059db7a217e0fce818f56cb641e21d6df4cff81460bf763053c8d5a2de0928d"
+  },
+  {
+    "case": "full_rank-s811-k1e+00-n0e+00-float64",
+    "path": "inputs/full_rank-s811-k1e+00-n0e+00-float64.npz",
+    "sha256": "e75b6fdf5b1896cb538be1f011aa09d857154111756d8766f083dc4c224f840a"
+  },
+  {
+    "case": "full_rank-s811-k1e+00-n1e-08-float32",
+    "path": "inputs/full_rank-s811-k1e+00-n1e-08-float32.npz",
+    "sha256": "e4bd937d9e2a255be509ac5d811800b01662f715fa1c60ee1c1effc4fdaeb5e3"
+  },
+  {
+    "case": "full_rank-s811-k1e+00-n1e-08-float64",
+    "path": "inputs/full_rank-s811-k1e+00-n1e-08-float64.npz",
+    "sha256": "c7702a29cf277ef4f1805ce77e7548d44b61c092b856d64075d768969e2b4d81"
+  },
+  {
+    "case": "full_rank-s811-k1e+02-n0e+00-float32",
+    "path": "inputs/full_rank-s811-k1e+02-n0e+00-float32.npz",
+    "sha256": "6bd8c206aaa9b9ec4a948333619024f6fda6c0113bde6bc5b2c6e73283b35f3c"
+  },
+  {
+    "case": "full_rank-s811-k1e+02-n0e+00-float64",
+    "path": "inputs/full_rank-s811-k1e+02-n0e+00-float64.npz",
+    "sha256": "be69ff076b6ba4317f18e260c3ee96e7ba0f16577628d24257d3045e9d22a872"
+  },
+  {
+    "case": "full_rank-s811-k1e+02-n1e-08-float32",
+    "path": "inputs/full_rank-s811-k1e+02-n1e-08-float32.npz",
+    "sha256": "fea868fec5be82920f248cf167eac7a0712ef495b89baed6c9b709ae82136bab"
+  },
+  {
+    "case": "full_rank-s811-k1e+02-n1e-08-float64",
+    "path": "inputs/full_rank-s811-k1e+02-n1e-08-float64.npz",
+    "sha256": "cbeab97196085efa50b4dd4c67759c26ffcd938405fab0c93cdddac6d51e7679"
+  },
+  {
+    "case": "full_rank-s811-k1e+04-n0e+00-float32",
+    "path": "inputs/full_rank-s811-k1e+04-n0e+00-float32.npz",
+    "sha256": "df5d4a884f4743259af73070d3cd7467500ca98c89a39a30adf3c98908a722fc"
+  },
+  {
+    "case": "full_rank-s811-k1e+04-n0e+00-float64",
+    "path": "inputs/full_rank-s811-k1e+04-n0e+00-float64.npz",
+    "sha256": "12ee6427b22ae44a4192cca168dbe9797932d108af294e01c7c220969f3e73ef"
+  },
+  {
+    "case": "full_rank-s811-k1e+04-n1e-08-float32",
+    "path": "inputs/full_rank-s811-k1e+04-n1e-08-float32.npz",
+    "sha256": "9e09a07ba12d02ab60fa71cf6dd3402f4889f4b49477cec5f276b8bd9ab0d2e2"
+  },
+  {
+    "case": "full_rank-s811-k1e+04-n1e-08-float64",
+    "path": "inputs/full_rank-s811-k1e+04-n1e-08-float64.npz",
+    "sha256": "b3020fc605ae70365412bd43224af8afa97eb7501652c7a7111863efd359d8e9"
+  },
+  {
+    "case": "full_rank-s811-k1e+06-n0e+00-float32",
+    "path": "inputs/full_rank-s811-k1e+06-n0e+00-float32.npz",
+    "sha256": "a40a413773b751dad8098d2228dd631af99042592cfdc753f31cd6f1d5729468"
+  },
+  {
+    "case": "full_rank-s811-k1e+06-n0e+00-float64",
+    "path": "inputs/full_rank-s811-k1e+06-n0e+00-float64.npz",
+    "sha256": "e4a968a9bc09d1263d4547e951a370c958f05fa8e6bca8feba7242b69bbe100c"
+  },
+  {
+    "case": "full_rank-s811-k1e+06-n1e-08-float32",
+    "path": "inputs/full_rank-s811-k1e+06-n1e-08-float32.npz",
+    "sha256": "793877a195729d0c4f66969bdd94caf158b9fec10d16da2fcb6cc44e7c1614ef"
+  },
+  {
+    "case": "full_rank-s811-k1e+06-n1e-08-float64",
+    "path": "inputs/full_rank-s811-k1e+06-n1e-08-float64.npz",
+    "sha256": "b15ae4d9815bf20a4d8dedce57523709cdd48c64ea79e9ebb7fbf8d022afc6b2"
+  },
+  {
+    "case": "full_rank-s811-k1e+08-n0e+00-float32",
+    "path": "inputs/full_rank-s811-k1e+08-n0e+00-float32.npz",
+    "sha256": "fcdecc831948cce28d7cd84e658115463be130505ddf7787545c35d38960ce0d"
+  },
+  {
+    "case": "full_rank-s811-k1e+08-n0e+00-float64",
+    "path": "inputs/full_rank-s811-k1e+08-n0e+00-float64.npz",
+    "sha256": "1272c1caf02a119e6694545fbfd7675c535098f7534c4bf147a77329669f743e"
+  },
+  {
+    "case": "full_rank-s811-k1e+08-n1e-08-float32",
+    "path": "inputs/full_rank-s811-k1e+08-n1e-08-float32.npz",
+    "sha256": "9fe41164545b75f1433910c2dbc1592b078253f28ff5cca63dc01b6d6ab4188c"
+  },
+  {
+    "case": "full_rank-s811-k1e+08-n1e-08-float64",
+    "path": "inputs/full_rank-s811-k1e+08-n1e-08-float64.npz",
+    "sha256": "404585fad8182a69abe1793f274b4aa46401f23466e33e9ecbb6c8f9dcd713ef"
+  },
+  {
+    "case": "full_rank-s811-k1e+10-n0e+00-float32",
+    "path": "inputs/full_rank-s811-k1e+10-n0e+00-float32.npz",
+    "sha256": "c71bfb2fc6944e6b1db66954fc77c9554eedec269cb696de47ef89d90c6ef4c5"
+  },
+  {
+    "case": "full_rank-s811-k1e+10-n0e+00-float64",
+    "path": "inputs/full_rank-s811-k1e+10-n0e+00-float64.npz",
+    "sha256": "98bd6cb5cebc16a917e1b8df464add235c539c24f7ba989c38434eea0f0f7664"
+  },
+  {
+    "case": "full_rank-s811-k1e+10-n1e-08-float32",
+    "path": "inputs/full_rank-s811-k1e+10-n1e-08-float32.npz",
+    "sha256": "7013bb22c7aab1e6db5d12d95ebd802ac46ace76a3f03e23ea783095e288b4c5"
+  },
+  {
+    "case": "full_rank-s811-k1e+10-n1e-08-float64",
+    "path": "inputs/full_rank-s811-k1e+10-n1e-08-float64.npz",
+    "sha256": "9938bf1a1238c544c6d2feb29315eeaec61dbf66acbe75b3739718d3f10edbf7"
+  },
+  {
+    "case": "full_rank-s811-k1e+12-n0e+00-float32",
+    "path": "inputs/full_rank-s811-k1e+12-n0e+00-float32.npz",
+    "sha256": "685bf53765e29669e3e3c9436ee44c17fdbed6947899fe6e5a3b273b6dc3c228"
+  },
+  {
+    "case": "full_rank-s811-k1e+12-n0e+00-float64",
+    "path": "inputs/full_rank-s811-k1e+12-n0e+00-float64.npz",
+    "sha256": "9e5ac63dfea36b491cdbe09cce5c2bb898b78cc5f8b5b5097ead0fda07d4db2a"
+  },
+  {
+    "case": "full_rank-s811-k1e+12-n1e-08-float32",
+    "path": "inputs/full_rank-s811-k1e+12-n1e-08-float32.npz",
+    "sha256": "e8e87f7b6953e7ccc89630bbfec58e35d209a48ed77090b2652582f4d7e72030"
+  },
+  {
+    "case": "full_rank-s811-k1e+12-n1e-08-float64",
+    "path": "inputs/full_rank-s811-k1e+12-n1e-08-float64.npz",
+    "sha256": "350901e67cfa1f3c787f2c0ad7ef6a2b016e61c927f77deed64c2c882cd18954"
+  },
+  {
+    "case": "full_rank-s812-k1e+00-n0e+00-float32",
+    "path": "inputs/full_rank-s812-k1e+00-n0e+00-float32.npz",
+    "sha256": "d7dce3bba0ded98884f2e67fb2675a4ec9181d58f533aa8934a388c102426ad6"
+  },
+  {
+    "case": "full_rank-s812-k1e+00-n0e+00-float64",
+    "path": "inputs/full_rank-s812-k1e+00-n0e+00-float64.npz",
+    "sha256": "17f1f640c36ff847783d92d1d5c6fec49906ad2db18ef617415fc4f7fdede12a"
+  },
+  {
+    "case": "full_rank-s812-k1e+00-n1e-08-float32",
+    "path": "inputs/full_rank-s812-k1e+00-n1e-08-float32.npz",
+    "sha256": "70e57650ba6407c6702e21567467a2570d2375c554e0a6bb9240f81a4bf998af"
+  },
+  {
+    "case": "full_rank-s812-k1e+00-n1e-08-float64",
+    "path": "inputs/full_rank-s812-k1e+00-n1e-08-float64.npz",
+    "sha256": "d885483b441590518c811b1ae951851e89f0d6a4dd51665888503db13ceb5a16"
+  },
+  {
+    "case": "full_rank-s812-k1e+02-n0e+00-float32",
+    "path": "inputs/full_rank-s812-k1e+02-n0e+00-float32.npz",
+    "sha256": "b66467446515cda519e4844dd9cc091c8da7f535d54a903749d23183605cf18a"
+  },
+  {
+    "case": "full_rank-s812-k1e+02-n0e+00-float64",
+    "path": "inputs/full_rank-s812-k1e+02-n0e+00-float64.npz",
+    "sha256": "76e8e4dd811019145ee79b6890cdf87c6dcb40833cb5c33c0dfa8985f5284697"
+  },
+  {
+    "case": "full_rank-s812-k1e+02-n1e-08-float32",
+    "path": "inputs/full_rank-s812-k1e+02-n1e-08-float32.npz",
+    "sha256": "101d52f91758a2492f074537ac579d9d27d5de8a888c1e4b8055e719f491de8e"
+  },
+  {
+    "case": "full_rank-s812-k1e+02-n1e-08-float64",
+    "path": "inputs/full_rank-s812-k1e+02-n1e-08-float64.npz",
+    "sha256": "ef1738f90d424cec561389881b399b74ff9c2f2c445a90a5a4c7d4002cd831d8"
+  },
+  {
+    "case": "full_rank-s812-k1e+04-n0e+00-float32",
+    "path": "inputs/full_rank-s812-k1e+04-n0e+00-float32.npz",
+    "sha256": "723576ee59ada20db6ae5ab6f46a1f526763804fae14820d610d7b9f6554bb83"
+  },
+  {
+    "case": "full_rank-s812-k1e+04-n0e+00-float64",
+    "path": "inputs/full_rank-s812-k1e+04-n0e+00-float64.npz",
+    "sha256": "6277aa637dcda740826bc11d183a9d92d4028bf15ac9b3fafb292cb93ff10ba8"
+  },
+  {
+    "case": "full_rank-s812-k1e+04-n1e-08-float32",
+    "path": "inputs/full_rank-s812-k1e+04-n1e-08-float32.npz",
+    "sha256": "bbda922bdc647b7e5a3d9b7d0895e593e7591bb303e45e43fd0d4ebe886261dd"
+  },
+  {
+    "case": "full_rank-s812-k1e+04-n1e-08-float64",
+    "path": "inputs/full_rank-s812-k1e+04-n1e-08-float64.npz",
+    "sha256": "b9197262c8478d711c8a8e253137b6a6dbfa903600afbf0affe04bc0742bb90a"
+  },
+  {
+    "case": "full_rank-s812-k1e+06-n0e+00-float32",
+    "path": "inputs/full_rank-s812-k1e+06-n0e+00-float32.npz",
+    "sha256": "b295831b45c7180e6c9517fb03e9c3b7967fbe55d376abcc46682e7d1ac6ff54"
+  },
+  {
+    "case": "full_rank-s812-k1e+06-n0e+00-float64",
+    "path": "inputs/full_rank-s812-k1e+06-n0e+00-float64.npz",
+    "sha256": "8c59a57013bea5d000e2d51d385bac7be1f7daf2ac6ffdbf6d662fe9fe1cd89e"
+  },
+  {
+    "case": "full_rank-s812-k1e+06-n1e-08-float32",
+    "path": "inputs/full_rank-s812-k1e+06-n1e-08-float32.npz",
+    "sha256": "5601edfbe22ade0c4a5b95b983b8d4a4bb603c968810dca7c49860aa2daded20"
+  },
+  {
+    "case": "full_rank-s812-k1e+06-n1e-08-float64",
+    "path": "inputs/full_rank-s812-k1e+06-n1e-08-float64.npz",
+    "sha256": "80579149e4f72570823cf4bf72ebd7f37ca1d6474bf4f68883480be0f298b650"
+  },
+  {
+    "case": "full_rank-s812-k1e+08-n0e+00-float32",
+    "path": "inputs/full_rank-s812-k1e+08-n0e+00-float32.npz",
+    "sha256": "176d183e042cfe7e8b01c92b667cbbf1f1d778b7975f10366ff76fa234049393"
+  },
+  {
+    "case": "full_rank-s812-k1e+08-n0e+00-float64",
+    "path": "inputs/full_rank-s812-k1e+08-n0e+00-float64.npz",
+    "sha256": "e4be1913446b6d1bcb353663f4d4fd7c36c3d549d3882c674564058d5a0f9b4c"
+  },
+  {
+    "case": "full_rank-s812-k1e+08-n1e-08-float32",
+    "path": "inputs/full_rank-s812-k1e+08-n1e-08-float32.npz",
+    "sha256": "ea5550e5083d942e722c54ec43a76e86e1bce59d12fba8b13b7a29d1da3336e2"
+  },
+  {
+    "case": "full_rank-s812-k1e+08-n1e-08-float64",
+    "path": "inputs/full_rank-s812-k1e+08-n1e-08-float64.npz",
+    "sha256": "fbbf065f2762c233d911862967c878825dc872a323e187a5235e0e1468c4cadb"
+  },
+  {
+    "case": "full_rank-s812-k1e+10-n0e+00-float32",
+    "path": "inputs/full_rank-s812-k1e+10-n0e+00-float32.npz",
+    "sha256": "de728371d3e2447c6d492578ad9d824518fbdd1189c101dd0e7f952a38516642"
+  },
+  {
+    "case": "full_rank-s812-k1e+10-n0e+00-float64",
+    "path": "inputs/full_rank-s812-k1e+10-n0e+00-float64.npz",
+    "sha256": "8cff228d56ece166380392ccb7a1488f1d6891639025cf1a8024565cf2d8ce7b"
+  },
+  {
+    "case": "full_rank-s812-k1e+10-n1e-08-float32",
+    "path": "inputs/full_rank-s812-k1e+10-n1e-08-float32.npz",
+    "sha256": "c4a2a7a7d1663e79f2e9883d60486219869f0ab4b8bc5a9dfa8820f3b217a6cc"
+  },
+  {
+    "case": "full_rank-s812-k1e+10-n1e-08-float64",
+    "path": "inputs/full_rank-s812-k1e+10-n1e-08-float64.npz",
+    "sha256": "d9b7bd4b715cc35f050efcd65005df9afb970dc0b560666e52ca31298bb06ba9"
+  },
+  {
+    "case": "full_rank-s812-k1e+12-n0e+00-float32",
+    "path": "inputs/full_rank-s812-k1e+12-n0e+00-float32.npz",
+    "sha256": "7f656da573d97bd1a11bb43d342c7d0cc7ffbaf96c5dd1331dfcecbac82cde6a"
+  },
+  {
+    "case": "full_rank-s812-k1e+12-n0e+00-float64",
+    "path": "inputs/full_rank-s812-k1e+12-n0e+00-float64.npz",
+    "sha256": "19b03844bfe7543dda3bd2bdda7aefdecd78e0064fcd62060b22494f5a7f1b03"
+  },
+  {
+    "case": "full_rank-s812-k1e+12-n1e-08-float32",
+    "path": "inputs/full_rank-s812-k1e+12-n1e-08-float32.npz",
+    "sha256": "b83e82066aa9aa25b5bfb5c03bb0011654884807bc087b248948039e0c8ec8ac"
+  },
+  {
+    "case": "full_rank-s812-k1e+12-n1e-08-float64",
+    "path": "inputs/full_rank-s812-k1e+12-n1e-08-float64.npz",
+    "sha256": "0bffa8b78c4a410128f4f8b5adbc153f3eae879eacacec51649a2daf7be05e7c"
+  },
+  {
+    "case": "full_rank-s813-k1e+00-n0e+00-float32",
+    "path": "inputs/full_rank-s813-k1e+00-n0e+00-float32.npz",
+    "sha256": "cfe2871c9871598f398b38a3719638be3621ea848b711e79de74513c3cb9ce05"
+  },
+  {
+    "case": "full_rank-s813-k1e+00-n0e+00-float64",
+    "path": "inputs/full_rank-s813-k1e+00-n0e+00-float64.npz",
+    "sha256": "9c34c96e1783b1171572e5f1e1ac57a8c9ef7e83b0cbd68e3162a2e6b6f8ee6f"
+  },
+  {
+    "case": "full_rank-s813-k1e+00-n1e-08-float32",
+    "path": "inputs/full_rank-s813-k1e+00-n1e-08-float32.npz",
+    "sha256": "7b21fe0904efecdcca88d71c0ab5cdffe9cbb5df58ac74faec398fd8c9b2b13b"
+  },
+  {
+    "case": "full_rank-s813-k1e+00-n1e-08-float64",
+    "path": "inputs/full_rank-s813-k1e+00-n1e-08-float64.npz",
+    "sha256": "4618de6704dd4082e1a60691b3cdc510d4f4bb8d1e5de51ea8dc4b710c300206"
+  },
+  {
+    "case": "full_rank-s813-k1e+02-n0e+00-float32",
+    "path": "inputs/full_rank-s813-k1e+02-n0e+00-float32.npz",
+    "sha256": "923bb2627f97f3fd83a1ea46ea4ac69fd51f8919d3d72074b9ea150c1a3b34f3"
+  },
+  {
+    "case": "full_rank-s813-k1e+02-n0e+00-float64",
+    "path": "inputs/full_rank-s813-k1e+02-n0e+00-float64.npz",
+    "sha256": "738cfc08add464c99f62db90bcacb9023f0410be5f85f576f1f2ee75b34beb06"
+  },
+  {
+    "case": "full_rank-s813-k1e+02-n1e-08-float32",
+    "path": "inputs/full_rank-s813-k1e+02-n1e-08-float32.npz",
+    "sha256": "9125f7a5f8d1b9fd259ff7c2f67bc1b3ce19664eb28586ee6a79e4e2f3eda025"
+  },
+  {
+    "case": "full_rank-s813-k1e+02-n1e-08-float64",
+    "path": "inputs/full_rank-s813-k1e+02-n1e-08-float64.npz",
+    "sha256": "5cff6a1b146c03f0c02e3772ff8ba55c3ea4f03ae4fb4cd98134193ae3a9e969"
+  },
+  {
+    "case": "full_rank-s813-k1e+04-n0e+00-float32",
+    "path": "inputs/full_rank-s813-k1e+04-n0e+00-float32.npz",
+    "sha256": "64b5e91713d28355660bd948891fc6ee61e463dbdf1feb07316df8dc978ee1ca"
+  },
+  {
+    "case": "full_rank-s813-k1e+04-n0e+00-float64",
+    "path": "inputs/full_rank-s813-k1e+04-n0e+00-float64.npz",
+    "sha256": "05b5ddaab46d0947bba3e7c915ff4a7804aba7950c7aeba949021ca0d436abe7"
+  },
+  {
+    "case": "full_rank-s813-k1e+04-n1e-08-float32",
+    "path": "inputs/full_rank-s813-k1e+04-n1e-08-float32.npz",
+    "sha256": "93c40a1fc8e3dcca326cfa05ff35057bd74dbca34a8e9d2946aeb7ce51c9ac03"
+  },
+  {
+    "case": "full_rank-s813-k1e+04-n1e-08-float64",
+    "path": "inputs/full_rank-s813-k1e+04-n1e-08-float64.npz",
+    "sha256": "f7176a5a595b646af6d534674bfa93d69efa7e4d59eb8c14447c21059df63fdf"
+  },
+  {
+    "case": "full_rank-s813-k1e+06-n0e+00-float32",
+    "path": "inputs/full_rank-s813-k1e+06-n0e+00-float32.npz",
+    "sha256": "1393e58753319a6e1d8d967a5b4855017fceff8264958ec2f5de68e4e4f68fa4"
+  },
+  {
+    "case": "full_rank-s813-k1e+06-n0e+00-float64",
+    "path": "inputs/full_rank-s813-k1e+06-n0e+00-float64.npz",
+    "sha256": "9969d37224a1b4b334acca0c341aa24272b9559b3ea03a8ce3c705d4d25318d2"
+  },
+  {
+    "case": "full_rank-s813-k1e+06-n1e-08-float32",
+    "path": "inputs/full_rank-s813-k1e+06-n1e-08-float32.npz",
+    "sha256": "a3e513b595bdc41c641faa45b155fe33ca6202831dc2ae170de1b84b71123847"
+  },
+  {
+    "case": "full_rank-s813-k1e+06-n1e-08-float64",
+    "path": "inputs/full_rank-s813-k1e+06-n1e-08-float64.npz",
+    "sha256": "bc339d889800d2e0bca81fab2c392162be8ee14010ac53d29dfc286a9b8fa96f"
+  },
+  {
+    "case": "full_rank-s813-k1e+08-n0e+00-float32",
+    "path": "inputs/full_rank-s813-k1e+08-n0e+00-float32.npz",
+    "sha256": "fb8b00aa548bf02065345bb643854aac9f31647e29ef28b658e962c2bd5d7bbc"
+  },
+  {
+    "case": "full_rank-s813-k1e+08-n0e+00-float64",
+    "path": "inputs/full_rank-s813-k1e+08-n0e+00-float64.npz",
+    "sha256": "8c009277c8090d660d792abbf8d7937f4e2ca2a2852158b300e599c95c5e45f9"
+  },
+  {
+    "case": "full_rank-s813-k1e+08-n1e-08-float32",
+    "path": "inputs/full_rank-s813-k1e+08-n1e-08-float32.npz",
+    "sha256": "5b88c2c30e6a6d3e719ce414148bab4cd0d992b1edd9b2de3c1433d5309a95ad"
+  },
+  {
+    "case": "full_rank-s813-k1e+08-n1e-08-float64",
+    "path": "inputs/full_rank-s813-k1e+08-n1e-08-float64.npz",
+    "sha256": "7b365e7e62f303b0680ac99cce0655d47bab856210c10721f514cc764b28db1f"
+  },
+  {
+    "case": "full_rank-s813-k1e+10-n0e+00-float32",
+    "path": "inputs/full_rank-s813-k1e+10-n0e+00-float32.npz",
+    "sha256": "250963f0e2b31760c16554aac19e42b9036f20dc92b9329881ce344a42a97ce9"
+  },
+  {
+    "case": "full_rank-s813-k1e+10-n0e+00-float64",
+    "path": "inputs/full_rank-s813-k1e+10-n0e+00-float64.npz",
+    "sha256": "860d592e27364529e52cd5f8b7ea4e9c40229e7a7f2db8b98c911321ae58bf45"
+  },
+  {
+    "case": "full_rank-s813-k1e+10-n1e-08-float32",
+    "path": "inputs/full_rank-s813-k1e+10-n1e-08-float32.npz",
+    "sha256": "9dcf585a098c9383b053ea578f8b0a0d8f089bff200b19c9c790290387f58d5d"
+  },
+  {
+    "case": "full_rank-s813-k1e+10-n1e-08-float64",
+    "path": "inputs/full_rank-s813-k1e+10-n1e-08-float64.npz",
+    "sha256": "8198c69cf8ed1732c6a3d816c30d32c9050024aead68407dced0695f0c141e97"
+  },
+  {
+    "case": "full_rank-s813-k1e+12-n0e+00-float32",
+    "path": "inputs/full_rank-s813-k1e+12-n0e+00-float32.npz",
+    "sha256": "7e804fd8dd826ff0d42f06c49e711490803cc4497e7d0b347cca0027c0b82536"
+  },
+  {
+    "case": "full_rank-s813-k1e+12-n0e+00-float64",
+    "path": "inputs/full_rank-s813-k1e+12-n0e+00-float64.npz",
+    "sha256": "7f4278985e06cb40e2bb0e6ec78d807f311d39e912d6793ebfc21168500e1c41"
+  },
+  {
+    "case": "full_rank-s813-k1e+12-n1e-08-float32",
+    "path": "inputs/full_rank-s813-k1e+12-n1e-08-float32.npz",
+    "sha256": "98aeaa4de4305e4fe4276725cbcb69520b3121b67f0d2a2244a7a5d79494ea33"
+  },
+  {
+    "case": "full_rank-s813-k1e+12-n1e-08-float64",
+    "path": "inputs/full_rank-s813-k1e+12-n1e-08-float64.npz",
+    "sha256": "8107a3f44cf4f198352bb1a0483ddacd98015a6197a552e5c3f409e1eab64b12"
+  },
+  {
+    "case": "duplicate_column-s811-k1e+02-n0e+00-float32",
+    "path": "inputs/duplicate_column-s811-k1e+02-n0e+00-float32.npz",
+    "sha256": "df766d75aa00303ec21d07e39015fccfe8c41a0e60f922db7c93e00d04d02df9"
+  },
+  {
+    "case": "duplicate_column-s811-k1e+02-n0e+00-float64",
+    "path": "inputs/duplicate_column-s811-k1e+02-n0e+00-float64.npz",
+    "sha256": "6ea89ee0b365ce873d94c6754f228fc6e90855e95d8dc567921e81930d521889"
+  },
+  {
+    "case": "duplicate_column-s812-k1e+02-n0e+00-float32",
+    "path": "inputs/duplicate_column-s812-k1e+02-n0e+00-float32.npz",
+    "sha256": "904f27ba4f6677f814da5b17b029fd8927b1802fcef9deb6b85ddc44d69c823e"
+  },
+  {
+    "case": "duplicate_column-s812-k1e+02-n0e+00-float64",
+    "path": "inputs/duplicate_column-s812-k1e+02-n0e+00-float64.npz",
+    "sha256": "b247aaccdfcd6b2a5a11971e655e1c6918519e15381092bb31eaf4889924a32d"
+  },
+  {
+    "case": "duplicate_column-s813-k1e+02-n0e+00-float32",
+    "path": "inputs/duplicate_column-s813-k1e+02-n0e+00-float32.npz",
+    "sha256": "b63835f96df3170194aafd23a6ed98f2f41c9ad226fb7b52bc65ef1dc075a777"
+  },
+  {
+    "case": "duplicate_column-s813-k1e+02-n0e+00-float64",
+    "path": "inputs/duplicate_column-s813-k1e+02-n0e+00-float64.npz",
+    "sha256": "af65a6854c7979c412d85f62b6f93cafb99e962f07c2cc6d61071483f5d54e24"
+  }
+]

@@ -1,0 +1,22 @@
+name: Validate numerical study
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  numerical-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - name: Reconcile published evidence
+        run: python -m unittest discover -s tests -v
+      - name: Reproduce a separate quick run
+        run: python scripts/run_experiment.py --quick --out outputs/ci
+      - name: Check the new run
+        run: python -m unittest discover -s tests -v
+        env:
+          STABILITY_RESULTS: outputs/ci

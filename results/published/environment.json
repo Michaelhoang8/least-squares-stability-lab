@@ -1,0 +1,44 @@
+{
+  "started_utc": "2026-11-20T22:25:37.124949+00:00",
+  "completed_utc": "2026-11-20T22:25:39.047230+00:00",
+  "python": "3.13.17",
+  "numpy": "2.3.5",
+  "mpmath": "1.3.0",
+  "os": "Windows",
+  "architecture": "AMD64",
+  "blas": {
+    "name": "scipy-openblas",
+    "version": "0.3.30"
+  },
+  "seeds": [
+    811,
+    812,
+    813
+  ],
+  "conditions": [
+    1.0,
+    100.0,
+    10000.0,
+    1000000.0,
+    100000000.0,
+    10000000000.0,
+    1000000000000.0
+  ],
+  "matrix_shape": [
+    48,
+    10
+  ],
+  "noise_relative": [
+    0.0,
+    1e-08
+  ],
+  "reference_decimal_digits": 80,
+  "input_cases": 90,
+  "measurement_rows": 270,
+  "quick": false,
+  "timing_scope": "One call per case, including float64 rank diagnostic; descriptive trace, not a performance benchmark",
+  "data_provenance": "Seeded synthetic matrices; no external dataset",
+  "rank_policy": "Normal equations/QR reject float64-diagnostic rank deficiency. SVD cutoff=max(shape)*eps(input dtype).",
+  "reference_policy": "80-digit QR on exact binary rounded inputs; duplicate-column case uses reduced QR and equal split for minimum norm.",
+  "precision_scope": "Float32/float64 input-output workflows. NumPy 2.3.5 linalg internals promote QR/SVD/solve to double and cast outputs back; matrix products use array dtype."
+}
