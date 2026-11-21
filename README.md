@@ -1,5 +1,7 @@
 # Least-squares stability lab
 
+**[View the report in your browser](https://Michaelhoang8.github.io/least-squares-stability-lab/)**
+
 A reproducible scientific-computing study of **normal equations, QR, and SVD** across matrix conditioning, noise, rank deficiency, and float32/float64 input-output workflows.
 
 The central distinction is between disagreement with a high-precision solution of the **same rounded input** and failure to recover coefficients from a problem already changed by noise or rounding.
